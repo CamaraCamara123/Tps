@@ -5,7 +5,7 @@
 ![Texte alternatif de l'image](imgs/details.png)
 
 ### Commande APP ###
-![Texte alternatif de l'image](imgs/produit.png)
-![Texte alternatif de l'image](imgs/categorie.png)
-![Texte alternatif de l'image](imgs/commande.png)
-![Texte alternatif de l'image](imgs/client.png)
+![Texte alternatif de l'image](imgs/produit.jpg)
+![Texte alternatif de l'image](imgs/categorie.jpg)
+![Texte alternatif de l'image](imgs/commande.jpg)
+![Texte alternatif de l'image](imgs/client.jpg)
